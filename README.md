@@ -1,10 +1,8 @@
 ### Danny's GitHub
-**dannyjkim37/dannyjkim37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- ⚡ Fun fact: 
+Hi there, I'm Danny.
+**Tools**
+Languages: Python, SQL, R, 
+Database: BigQuery, PositCloud, R Studio
+Visualization: PowerBI, Tableau
+Projects
+ - 
