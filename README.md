@@ -2,8 +2,10 @@
 Hi there, I'm Danny.
 
 Tools
-Languages: Python, SQL, R, 
-Database: BigQuery, PositCloud, R Studio
-Visualization: PowerBI, Tableau
+- Languages: Python, SQL, R, 
+- Database: BigQuery, PositCloud, R Studio
+- Visualization: PowerBI, Tableau
+
 Projects
- - 
+- 1
+- 2
